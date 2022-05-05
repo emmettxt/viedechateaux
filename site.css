@@ -1,0 +1,22 @@
+.vdc-font{
+    font-family: Monotype Corsiva;
+    color: black;
+
+}
+
+#home-span-container{
+    background-image: url("images/places-to-eat-naas-Vie-de-chateaux-newbridge.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+h3{
+    text-align: center;
+}
+h2,h3{
+    font-family: Monotype Corsiva;
+}
+.carousel-item > img{
+    aspect-ratio: 1;
+    object-fit: cover;
+}
