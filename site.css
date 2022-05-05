@@ -1,5 +1,6 @@
 .vdc-font{
-    font-family: Monotype Corsiva;
+    font-family:Monotype Corsiva, 'Allura', cursive;
+    font-weight: 500;
     color: black;
 
 }
@@ -14,7 +15,8 @@ h3{
     text-align: center;
 }
 h2,h3{
-    font-family: Monotype Corsiva;
+    font-family:Monotype Corsiva, 'Allura', cursive;
+    font-weight: 500;
 }
 .carousel-item > img{
     aspect-ratio: 1;
